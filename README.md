@@ -26,8 +26,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/smontes2/smontes2/output/snake.svg" alt="Snake animation" />
 
 ###
